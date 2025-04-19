@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $username = "root";
-$password = "root"; // Mật khẩu mặc định của MAMP
+$password = "root"; 
 $dbname = "user_management";
 
 try {
